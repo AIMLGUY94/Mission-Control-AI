@@ -1,0 +1,13 @@
+# OS and IDE folders
+AppData/
+.cargo/
+target/
+
+# Python virtual environments
+.venv311/
+__pycache__/
+*.pyc
+
+# Other common ignores
+*.log
+*.DS_Store
