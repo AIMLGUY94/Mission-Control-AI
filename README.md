@@ -1,18 +1,18 @@
 # Mission Control AI
 
-## Overview
+Mission Control AI is an agentic Retrieval-Augmented Generation system designed for mission-critical decision-making environments such as military operations, emergency response, and critical infrastructure management.
 
-Mission Control AI is an advanced Retrieval-Augmented Generation (RAG) system designed for mission-critical decision making. Built with GPT-5 and LanceDB, it dynamically retrieves and reasons over your own documents — PDFs, URLs, and more — to deliver trusted, confidence-scored insights.
+## Features
 
-This open-source project features:
-
-- Document retrieval with semantic search
-- Confidence scoring and missing information flagging
-- Streamlit-based user interface for easy interaction
-- Extensible architecture with the Agno framework for agent orchestration
+- Dynamic retrieval and reasoning over custom documents (PDFs, URLs)
+- Confidence scoring and flagging of missing information
+- Intuitive Streamlit UI for effortless interaction
+- Scalable architecture using the Agno agent orchestration framework
 
 ## Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/AIMLGUY94/Mission-Control-AI.git
+
+```bash
+git clone https://github.com/AIMLGUY94/Mission-Control-AI.git
+cd Mission-Control-AI
